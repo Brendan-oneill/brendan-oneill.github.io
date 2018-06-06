@@ -1,5 +1,9 @@
 UL {
-	margin: 12px 12px 12px 12px;
+	margin-top: 12px;
+	margin-left: 50%;
+	margin-right: 50%;
 	padding: 3px 3px 3px 3px;
-	border: thin;
+	border-width: thin;
+	border-color: black;
+	border-style: ridge;
 }
