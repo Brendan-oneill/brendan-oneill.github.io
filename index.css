@@ -1,5 +1,4 @@
 OL {
-	background-color: blue;
 	margin-top: 12px;
 	margin-left: 2em;
 	margin-right: 2em;
@@ -10,8 +9,14 @@ OL {
 }
 
 LI {
+	text-align: center;
 	margin-left: 3em;
 	margin-right: 3em;
 	padding: 3px 3px 3px 3px;
 	list-style: none;
+}
+
+h1 {
+	text-align: center;
+	border: dashed;
 }
