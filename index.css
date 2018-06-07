@@ -1,4 +1,4 @@
-UL {
+OL {
 	color: blue;
 	margin-top: 12px;
 	margin-left: 2em;
@@ -14,13 +14,4 @@ LI {
 	margin-right: 3em;
 	padding: 3px 3px 3px 3px;
 	list-style: none;
-}
-
-a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
-    color: initial;
 }
