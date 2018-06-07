@@ -13,9 +13,10 @@ LI {
 	margin-left: 3em;
 	margin-right: 3em;
 	padding: 3px 3px 3px 3px;
+	list-style: none;
 }
 
-.button {
+a.button {
 	background-color: gray;
 	font-size : 12px;
 	border-radius: 4px;
